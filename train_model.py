@@ -7,6 +7,7 @@ from  keras.applications import VGG16, ResNet50
 from keras import backend as K
 from keras import optimizers
 import os
+import numpy as np
 import errno
 from matplotlib import pyplot as plt
 import time
